@@ -18,3 +18,8 @@ Tp framework ile tek bir dosyayı include etmeniz yeterlidir kullanabilmek için
 Tp frameworkteki kullanmadığınız class dosyalarını silebilir yada sınıfları tek başlarına kullanabilirsiniz.
  
 Not: Tp Framework AKK (Açık kaynak kodlu) bir projedir. Sizlerde paylaşmak üzere ve TP framework'ü geliştirmek üzere yazdığınız sınıfları çekirdeğe entegre etmek için bana gönderebilirsiniz. Ve adınız yayımlanır.
+
+<ul>
+<li><a href="http://www.alifiratguler.com.tr/tp-framework/tp-framework-surumleri/"><span style="color: #800000;">Tp Framework Sürümleri (TP Framework indir)</span></a></li>
+<li><a href="http://www.alifiratguler.com.tr/tp-framework/tp-framework-dersleri/"><span style="color: #800000;">TP Framework Dersleri (Kullanım Dersleri )</span></a></li>
+</ul>
